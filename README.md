@@ -1,2 +1,29 @@
-# lecture-web-animation
-1 hour talk
+# web animation with css, html, and javascript
+
+# references
+- 
+## UI:
+
+## immersive:
+
+## examples with code
+- jQuery bottle shopping cart
+- 
+
+## css examples - some simple UI you can use
+- transition on hover
+- side hamburger bar
+
+## should i use sass?
+Sass is a version of CSS with more robust features. You can write in sass and then transpile to CSS when it's time to view your code. Sass can be written in two languages - sass or scss (sassy css). I use scss! It's easier bc it's more similar to CSS.
+
+### workflow
+- Make a file called `style.scss` and write your styling there, using scss
+- In the header of your html link to a normal .css file: `<link rel="stylesheet" href="css/style.css">`
+- When you're done with your SCSS styling or just want to see the status of your page, use terminal to transpile
+- in terminal `cd` into your directory and type $`
+
+
+
+
+
