@@ -21,6 +21,7 @@ Sass is a version of CSS with more robust features. You can write in sass and th
 - Make a file called `style.scss` and write your styling there, using scss
 - In the header of your html link to a normal .css file: `<link rel="stylesheet" href="css/style.css">`
 - When you're done with your SCSS styling or just want to see the status of your page, use terminal to transpile
+- before you can transpile, you must install the sass transpiler: https://www.jetbrains.com/help/webstorm/2016.3/transpiling-sass-less-and-scss-to-css.html#d253312e140
 - in terminal `cd` into your directory and type $`
 
 
