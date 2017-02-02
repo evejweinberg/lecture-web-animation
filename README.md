@@ -26,5 +26,11 @@ Sass is a version of CSS with more robust features. You can write in sass and th
 
 
 
+what about other browsers besides chrome?
+what about speed and performace issues css vs JS vs jQuery?
+
+
+
+
 
 
