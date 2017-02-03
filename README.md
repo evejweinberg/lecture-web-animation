@@ -30,7 +30,17 @@ what about other browsers besides chrome?
 what about speed and performace issues css vs JS vs jQuery?
 
 
-
+## adding classes
+  topicBox.id = "box-1-open"
+  // boxOneclosed = false
+  // topicBox.style["width"] = "100%";
+  // topicBox.style.height = "90%";
+  // topicBox.style.top = "50%";
+  // topicBox.style.left = "5%";
+  // topicBox.style.transform = "translateY(-50%)";
+  // topicBox.style['background-color'] = '#ccc'
+  // console.log(this)
+  // console.dir(topicBox)
 
 
 
