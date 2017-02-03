@@ -32,8 +32,8 @@ what about speed and performace issues css vs JS vs jQuery?
 
 ## adding classes
   topicBox.id = "box-1-open"
-  // boxOneclosed = false
-  // topicBox.style["width"] = "100%";
+  boxOneclosed = false
+  topicBox.style["width"] = "100%";
   // topicBox.style.height = "90%";
   // topicBox.style.top = "50%";
   // topicBox.style.left = "5%";
@@ -43,4 +43,5 @@ what about speed and performace issues css vs JS vs jQuery?
   // console.dir(topicBox)
 
 
-
+typical StackOverflow:
+http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div
