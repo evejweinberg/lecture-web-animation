@@ -8,6 +8,7 @@ updating CSS on the fly:
 3 options - 
 
   const numOne = document.querySelector('.num-1')
+
   numOne.style.top = "5%";
   numOne.style['margin-top'] = "-35%";
   numOne.style.position = 'absolute';
