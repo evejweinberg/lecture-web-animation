@@ -26,6 +26,9 @@ Sass is a version of CSS with more robust features. You can write in sass and th
 
 
 
+[Codepen example](http://codepen.io/evejweinberg/pen/JEvaWr) :wiggle on hover and aniamte on click
+
+
 what about other browsers besides chrome?
 what about speed and performace issues css vs JS vs jQuery?
 
