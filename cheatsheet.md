@@ -1,12 +1,13 @@
 cheat sheet
 
 on hover:
-`cursor: pointer;`
+```cursor: pointer;```
 
 
 updating CSS on the fly:
 3 options - 
 
+  ```
   const numOne = document.querySelector('.num-1')
 
   numOne.style.top = "5%";
@@ -26,6 +27,14 @@ updating CSS on the fly:
   // topicBox.style.left = "5%";
   // topicBox.style.transform = "translateY(-50%)";
   // topicBox.style['background-color'] = '#ccc'
+  ```
+  
+  # centering things
+  
+    ```
+    left: 50%;
+    transform: translateX(-50%);
+    ```
 
 
 
