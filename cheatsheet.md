@@ -49,14 +49,14 @@ updating CSS on the fly:
 
 # test and amend on browser
 
-1) open index in Chrome
-2) open console
-3) click on sources tab
-4) right click folder name for a dropdown
-5) select 'add to workspace'
-6) choose folder name
-7) right click on the css file
-8) choose Map to. . something
-9) change css in the Source view
-10) save as you work! watch it update locally!
+  1. open index in Chrome
+  2. open console
+  3. click on sources tab
+  4. right click folder name for a dropdown
+  5. select 'add to workspace'
+  6. choose folder name
+  7. right click on the css file
+  8. choose Map to. . something
+  9. change css in the Source view
+  10. save as you work! watch it update locally!
 
