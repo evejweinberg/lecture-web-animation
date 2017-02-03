@@ -1,5 +1,12 @@
 cheat sheet
 
+if using jQuery, put all code in here:
+  ```
+  $(document).ready(function(){ 
+  [all code here ] 
+  });
+  ```
+
 on hover:
 ```cursor: pointer;```
 
