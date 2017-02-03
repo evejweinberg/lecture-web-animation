@@ -31,10 +31,10 @@ updating CSS on the fly:
   
   # centering things
   
-    ```
+    
     left: 50%;
     transform: translateX(-50%);
-    ```
+    
 
 
 
