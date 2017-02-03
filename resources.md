@@ -5,3 +5,6 @@ Free videos: https://flexbox.io/
 
 # Jquery CDN link:
 [http://code.jquery.com/] (http://code.jquery.com/)
+
+# css animation generator:
+http://cssanimate.com/
