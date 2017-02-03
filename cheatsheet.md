@@ -56,7 +56,8 @@ updating CSS on the fly:
   5. select 'add to workspace'
   6. choose folder name
   7. right click on the css file
-  8. choose Map to. . something
+  8. choose Map to Network Resources
+  9. choose css file from dropdown selection
   9. change css in the Source view
   10. save as you work! watch it update locally!
 
