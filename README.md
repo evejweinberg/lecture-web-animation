@@ -51,15 +51,6 @@ what about other browsers besides chrome?
 what about speed and performace issues css vs JS vs jQuery?
 
 
-## adding classes
-
-[Example Pen] (http://codepen.io/evejweinberg/pen/oByXXQ?editors=1111)
-
-
-  topicBox.style["width"] = "100%";
-  1. topicBox.style.left = "5%";
-  1. topicBox.style.transform = "translateY(-50%)";
-  1. topicBox.style['background-color'] = '#ccc'
 
 
 
