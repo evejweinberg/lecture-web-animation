@@ -64,4 +64,20 @@ Sometimes you need more from the console:
   9. choose css file from dropdown selection
   9. change css in the Source view
   10. save as you work! watch it update locally!
+  
+  
+## adding classes
+
+[Example Pen of adding pre-written CSS classes] (http://codepen.io/evejweinberg/pen/oByXXQ?editors=1111)
+
+Adding styles on the fly one by one:
+
+  ```
+  document.getElementById('hi').style["width"] = "100%";
+  document.getElementById('hi').style.left = "5%";
+ 
+  document.getElementById('hi').style['background-color'] = '#ccc'
+  document.getElementById('hi').style.BackgroundColor = '#ccc'
+  ```
+
 
