@@ -36,14 +36,18 @@ updating CSS on the fly:
   // topicBox.style['background-color'] = '#ccc'
   ```
   
-  # centering things
   
-    
+# centering things
+  
+    ```
     left: 50%;
     transform: translateX(-50%);
+    ```
+    
+      
     
 
-
+Sometimes you need more from the console:
 
 ```console.dir vs console.log```
 
