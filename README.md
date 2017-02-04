@@ -1,10 +1,21 @@
 # web animation with css, html, and javascript
 
 # references
-- 
-## UI:
 
-## immersive:
+## STACK:
+1. css (then eventually SCSS/SASS)
+2. javascript
+3. jQuery
+
+## PROCESS:
+1. watch tutorials
+2. stackOverflow
+  [sometimes not that helpful](http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div)
+3. Find things on codepen to Fork
+
+
+
+
 
 ## examples with code
 - http://codepen.io/havardob/pen/GZXOox
@@ -32,7 +43,7 @@ Sass is a version of CSS with more robust features. You can write in sass and th
 
 
 
-
+Advanced topics:
 what about other browsers besides chrome?
 what about speed and performace issues css vs JS vs jQuery?
 
@@ -50,5 +61,4 @@ what about speed and performace issues css vs JS vs jQuery?
   // console.dir(topicBox)
 
 
-typical StackOverflow:
-http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div
+
