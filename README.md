@@ -7,6 +7,8 @@
 2. javascript
 3. jQuery
 
+MY ARTICLE
+
 ## PROCESS:
 1. watch tutorials
 2. stackOverflow
@@ -15,7 +17,8 @@
 
 
 
-
+## EX: stoke dash offset
+[TweenLite from GSAP] (http://codepen.io/dewwwald/pen/pNOVLp)
 
 ## examples with code
 - http://codepen.io/havardob/pen/GZXOox
