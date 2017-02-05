@@ -43,6 +43,21 @@
 [Codepen example](http://codepen.io/evejweinberg/pen/JEvaWr) :wiggle on hover and aniamte on click
 
 
+# test and amend on browser
+
+  1. open index in Chrome
+  2. open console
+  3. click on sources tab
+  4. right click folder name for a dropdown
+  5. select 'add to workspace'
+  6. choose folder name
+  7. right click on the css file
+  8. choose Map to Network Resources
+  9. choose css file from dropdown selection
+  9. change css in the Source view
+  10. save as you work! watch it update locally!
+
+
 
 ## So what is Sass and when should I use it?
 As soon as you're writing css comfortably and you find yourself thinking, 'damn, I wish I could use variables!'. . start learning SASS. Until then, use css.
