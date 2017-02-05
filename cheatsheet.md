@@ -28,12 +28,7 @@ updating CSS on the fly:
   topicBox.id = "box-1-open"
   topicBox.classList += " open"
   document.querySelector('.topic-list').style.display = 'block'
-  // topicBox.style["width"] = "100%";
-  // topicBox.style.height = "90%";
-  // topicBox.style.top = "50%";
-  // topicBox.style.left = "5%";
-  // topicBox.style.transform = "translateY(-50%)";
-  // topicBox.style['background-color'] = '#ccc'
+
   ```
   
   
@@ -81,3 +76,21 @@ Adding styles on the fly one by one:
   ```
 
 
+// all children
+```
+.section3-pre > *
+```
+
+
+//input fields, remove annoying blue glow
+```
+input:focus {
+    border: 1px black solid;
+    outline: none;
+}
+
+```
+
+background image fitting options:
+
+[w3schools interactive site](http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=contain)
