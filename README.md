@@ -1,16 +1,25 @@
 # web animation with css, html, and javascript
 
-# references
+## references
+1. [Sing the movie website](http://www.singmovie.com/home)
+2. [Spook] (http://www.rememberspook.com/#)
+3. [Gemstones] (http://gemstones.elespacio.net/)
+
+## what we can learn today
+1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
+  - [gist here] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
+2. Hover shake
 
 ## STACK:
 1. css (then eventually SCSS/SASS)
-2. javascript
-3. jQuery
+2. javascript / jQuery
+3. Chrome browser dev tools
+4. Maybe Greensock if we have time
 
-MY ARTICLE
+[MY 'COMPREHENSIVE WEB ANIMATION' ARTICLE, FROM MEDIUM.COM] (https://medium.com/@evejweinberg/web-animation-everything-you-need-to-know-in-too-much-detail-91bf5d48f980#.t541ltp30)
 
-## PROCESS:
-1. watch tutorials
+## PROCESS. What does it feel like?:
+1. watch tutorials (see medium article)
 2. stackOverflow
   [sometimes not that helpful](http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div)
 3. Find things on codepen to Fork
@@ -28,7 +37,7 @@ MY ARTICLE
 
 
 
-## Should i use SASS?
+## So what is Sass and should I use it?
 As soon as you're writing css comfortable, and you find yourself thinking, 'damn, I wish I could use variables!'. . start learning SASS. Until then, use please css.
 
 - how to read scss/sass on codepen
@@ -46,9 +55,9 @@ Sass is a version of CSS with more robust features. You can write in sass and th
 
 
 
-Advanced topics:
-what about other browsers besides chrome?
-what about speed and performace issues css vs JS vs jQuery?
+# Topics for next time:
+- what about other browsers besides chrome?
+- what about speed and performace issues css vs JS vs jQuery?
 
 
 
