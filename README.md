@@ -49,6 +49,9 @@ As soon as you're writing css comfortably and you find yourself thinking, 'damn,
 
 [installing sass](http://sass-lang.com/install)
 [installing compass to compile sass to css](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
+```
+$ sass --watch style.scss:style2.css
+```
 
 
 
