@@ -4,17 +4,24 @@
 1. [Sing the movie website](http://www.singmovie.com/home)
 2. [Spook] (http://www.rememberspook.com/#)
 3. [Gemstones] (http://gemstones.elespacio.net/)
+4.
+5.
+6.
+7.
 
 ## what we can learn today
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
 2. Hover shake
+3. How to read scss/sass on codepen
+4. Using Chrome Dev Tools
 
 ## STACK:
 1. css (then eventually SCSS/SASS)
 2. javascript / jQuery
 3. Chrome browser dev tools
 4. Maybe Greensock if we have time
+5. Flexbox for laying out divs, or bootstrap
 
 [MY 'COMPREHENSIVE WEB ANIMATION' ARTICLE, FROM MEDIUM.COM] (https://medium.com/@evejweinberg/web-animation-everything-you-need-to-know-in-too-much-detail-91bf5d48f980#.t541ltp30)
 
@@ -37,10 +44,13 @@
 
 
 
-## So what is Sass and should I use it?
-As soon as you're writing css comfortable, and you find yourself thinking, 'damn, I wish I could use variables!'. . start learning SASS. Until then, use please css.
+## So what is Sass and when should I use it?
+As soon as you're writing css comfortably and you find yourself thinking, 'damn, I wish I could use variables!'. . start learning SASS. Until then, use css.
 
-- how to read scss/sass on codepen
+[installing sass](http://sass-lang.com/install)
+[installing compass to compile sass to css](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
+
+
 
 Sass is a version of CSS with more robust features. You can write in sass and then transpile to CSS when it's time to view your code. Sass can be written in two languages - sass or scss (sassy css). I use scss! It's easier bc it's more similar to CSS.
 
