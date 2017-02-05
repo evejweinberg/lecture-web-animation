@@ -46,19 +46,7 @@ Sometimes you need more from the console:
 
 ```console.dir vs console.log```
 
-# test and amend on browser
 
-  1. open index in Chrome
-  2. open console
-  3. click on sources tab
-  4. right click folder name for a dropdown
-  5. select 'add to workspace'
-  6. choose folder name
-  7. right click on the css file
-  8. choose Map to Network Resources
-  9. choose css file from dropdown selection
-  9. change css in the Source view
-  10. save as you work! watch it update locally!
   
   
 ## adding classes
