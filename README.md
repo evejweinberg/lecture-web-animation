@@ -8,16 +8,22 @@
 5. [another cool editorial thing] (http://bergluft.hervis.at/chapter/1)
 6. [another european site] (http://www.effektiv.fr/secteurs/ingenierie-management-de-production/)
 7. [slight slide in on scroll](http://dagadam.com/)
+8. [gooey menu] (http://codepen.io/evejweinberg/pen/RKJNXO)
+
 Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/)
 
 ## what we can learn today
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
 2. CSS Animation vs Transitions
+  - [Example of animation] (http://codepen.io/havardob/pen/GZXOox)
   - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
   - Transitions go from stateA to stateB; Animations can have multiple keyframes
 3. How to read scss/sass on codepen
 4. Using Chrome Dev Tools
+
+- http://codepen.io/evejweinberg/pen/KaRrYj
+- (to post) jQuery bottle shopping cart
 
 ## STACK:
 1. css (then eventually SCSS/SASS)
@@ -39,11 +45,9 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 ## EX: stoke dash offset
 [TweenLite from GSAP] (http://codepen.io/dewwwald/pen/pNOVLp)
 
-## examples with code
-- http://codepen.io/havardob/pen/GZXOox
-- http://codepen.io/evejweinberg/pen/KaRrYj
-- (to post) jQuery bottle shopping cart
-[Codepen example](http://codepen.io/evejweinberg/pen/JEvaWr) :wiggle on hover and aniamte on click
+
+
+
 
 
 # test and amend on browser
