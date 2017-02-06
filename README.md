@@ -4,10 +4,11 @@
 1. [Sing the movie website](http://www.singmovie.com/home)
 2. [Spook] (http://www.rememberspook.com/#)
 3. [Gemstones] (http://gemstones.elespacio.net/)
-4.
-5.
-6.
-7.
+4. [thing] (http://www.basicagency.com/yir/)
+5. [another cool editorial thing] (http://bergluft.hervis.at/chapter/1)
+6. [another european site] (http://www.effektiv.fr/secteurs/ingenierie-management-de-production/)
+7. [slight slide in on scroll](http://dagadam.com/)
+Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/)
 
 ## what we can learn today
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
