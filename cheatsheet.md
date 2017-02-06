@@ -7,9 +7,17 @@ if using jQuery, put all code in here:
   });
   ```
 
-on hover:
+on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
 
-```cursor: pointer;```
+    ```
+    cursor: pointer;
+
+    .thingy:hover {
+      cursor: pointer;
+     }
+     
+     ```
+
 
 
 ## updating CSS with javascript and jQuery:
