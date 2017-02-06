@@ -13,7 +13,9 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 ## what we can learn today
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
-2. Hover shake
+2. CSS Animation vs Transitions
+  - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
+  - Transitions go from stateA to stateB; Animations can have multiple keyframes
 3. How to read scss/sass on codepen
 4. Using Chrome Dev Tools
 
