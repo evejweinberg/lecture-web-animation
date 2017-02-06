@@ -8,6 +8,7 @@ if using jQuery, put all code in here:
   ```
 
 on hover:
+
 ```cursor: pointer;```
 
 
@@ -35,8 +36,9 @@ on hover:
   numOne.style['margin-top'] = "-35%";
   numOne.style['font-size'] = "4vh";
 
-  
+   ```
 ### replace element's ID or class entirely:
+ ```
   topicBox.id = "box-1-open"
   //add a new class, dont forget the space
   topicBox.classList += " open"
