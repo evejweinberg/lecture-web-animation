@@ -1,5 +1,45 @@
 # cheat sheet
 
+CSS transition properties:
+  ```
+  transition: <property> <duration> <timing-function> <delay>;
+
+  div {
+    transition: all 5s ease-in 1s;
+    
+  }
+  ```
+ 
+CSS animation properties:
+  ```
+  parameters: name, duration, delay, iteration-count, direction, timing function.
+  
+  the order of the words do not matter, but numbers do. First number it finds will always be duration, 2nd number it finds will be delay.
+  
+  direction options: normal | reverse | alternate | alternate-reverse
+  iteration count: interger or infinite; (not in quotes)
+  timing-function: ease | linear | ease-in | ease-out | ease-in-out | step-start | step-end | steps( <integer> [, [ start | end ] ]? ) | cubic-bezier( <number>, <number>, <number>, <number> )
+  
+  div-to-animate{
+    animation: wigglyJiggly 1s 2s 3 alternate backwards ease-in;
+  }
+  
+  @keyframes wigglyJiggly {
+  0% {
+    font-size: 10px;
+    left: 5%;
+  }
+  30% {
+    font-size: 15px;
+    left: 25%;
+  }
+  100% {
+    font-size: 12px;
+    left: 5%;
+  }
+}
+  ```
+
 if using jQuery, put all code in here:
   ```
   $(document).ready(function(){ 
