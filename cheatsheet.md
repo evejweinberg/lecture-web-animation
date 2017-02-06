@@ -11,25 +11,38 @@ on hover:
 ```cursor: pointer;```
 
 
-updating CSS on the fly:
-3 options - 
+## updating CSS with javascript and jQuery:
+
+### Adding styles one by one:
 
   ```
-  const numOne = document.querySelector('.num-1')
+  document.getElementById('hi').style["width"] = "100%";
+  document.getElementById('hi').style.left = "5%";
+ 
+  //hyphenation vs camelCase
+  document.getElementById('hi').style['background-color'] = '#ccc'
+  document.getElementById('hi').style.BackgroundColor = '#ccc'
+  ```
+
+
+  ```
+  //cleaner - find element first
+  var numOne = document.querySelector('.num-1')
 
   numOne.style.top = "5%";
-  numOne.style['margin-top'] = "-35%";
   numOne.style.position = 'absolute';
+  
+  numOne.style['margin-top'] = "-35%";
   numOne.style['font-size'] = "4vh";
 
-  document.querySelector('#topic').style.opacity = "0";
-
-  document.querySelector('.header').style.height = '5vh';
+  
+### replace element's ID or class entirely:
   topicBox.id = "box-1-open"
+  //add a new class, dont forget the space
   topicBox.classList += " open"
-  document.querySelector('.topic-list').style.display = 'block'
 
   ```
+  but if you're using jQuery, just use the techniques in [this codepen](http://codepen.io/evejweinberg/pen/oByXXQ)
   
   
 # centering things
@@ -37,6 +50,7 @@ updating CSS on the fly:
     ```
     left: 50%;
     transform: translateX(-50%);
+    position: relative;
     ```
     
       
@@ -48,20 +62,6 @@ Sometimes you need more from the console:
 
 
   
-  
-## adding classes
-
-[Example Pen of adding pre-written CSS classes] (http://codepen.io/evejweinberg/pen/oByXXQ?editors=1111)
-
-Adding styles on the fly one by one:
-
-  ```
-  document.getElementById('hi').style["width"] = "100%";
-  document.getElementById('hi').style.left = "5%";
- 
-  document.getElementById('hi').style['background-color'] = '#ccc'
-  document.getElementById('hi').style.BackgroundColor = '#ccc'
-  ```
 
 
 // all children
