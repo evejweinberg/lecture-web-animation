@@ -9,6 +9,7 @@
 6. [another european site] (http://www.effektiv.fr/secteurs/ingenierie-management-de-production/)
 7. [slight slide in on scroll](http://dagadam.com/)
 8. [gooey menu] (http://codepen.io/evejweinberg/pen/RKJNXO)
+9. [woah!](http://codepen.io/evejweinberg/pen/LxByzg)
 
 Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/)
 
@@ -17,9 +18,11 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
   - [gist here] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
 2. CSS Animation vs Transitions
   - [Example of animation] (http://codepen.io/havardob/pen/GZXOox)
+  - [Example of Transition](http://codepen.io/evejweinberg/pen/bgjWKp)
   - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
   - Transitions go from stateA to stateB; Animations can have multiple keyframes
 3. How to read scss/sass on codepen
+  - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
 4. Using Chrome Dev Tools
 
 - http://codepen.io/evejweinberg/pen/KaRrYj
