@@ -26,10 +26,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 3. How to read scss/sass on codepen
   - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
-4. Using Chrome Dev Tools
 
-- http://codepen.io/evejweinberg/pen/KaRrYj
-- (to post) jQuery bottle shopping cart
 
 ## STACK / WORKFLOW / TOOLS:
 1. STACK: css (then eventually SCSS/SASS), javascript / jQuery, HTML
