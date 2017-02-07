@@ -8,3 +8,7 @@ Free videos: https://flexbox.io/
 
 # css animation generator:
 http://cssanimate.com/
+
+
+## EX: stoke dash offset
+[TweenLite from GSAP] (http://codepen.io/dewwwald/pen/pNOVLp)
