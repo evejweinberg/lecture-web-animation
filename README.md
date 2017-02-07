@@ -14,15 +14,16 @@
 Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/)
 
 ## what we can learn today
-1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
-  - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
-  - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
 2. CSS Animation vs Transitions
   - [Example of animation] (http://codepen.io/havardob/pen/GZXOox)
   - [Example of Transition](http://codepen.io/evejweinberg/pen/bgjWKp)
   - [Example of Animation](http://codepen.io/evejweinberg/pen/zNLVPe)
   - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
+  // let's recreate in Chrome Dev tools and add clouds going across the screen
   -[All together](http://itp.evejweinberg.com/call/)
+1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
+  - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
+  - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
 
 3. How to read scss/sass on codepen
   - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
