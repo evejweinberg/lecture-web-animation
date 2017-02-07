@@ -15,9 +15,9 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 ## what we can learn today
 2. CSS Animation vs Transitions
+  - [Animation example 2 - shake on hover](http://codepen.io/evejweinberg/pen/zNLVPe)
   - [Animation Keyframe example] (http://codepen.io/havardob/pen/GZXOox)
   - [Transition example](http://codepen.io/evejweinberg/pen/bgjWKp)
-  - [Example of Animation](http://codepen.io/evejweinberg/pen/zNLVPe)
   - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
   // let's recreate in Chrome Dev tools and add clouds going across the screen
   -[All together](http://itp.evejweinberg.com/call/)
