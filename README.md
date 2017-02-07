@@ -29,27 +29,12 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 - http://codepen.io/evejweinberg/pen/KaRrYj
 - (to post) jQuery bottle shopping cart
 
-## STACK:
-1. css (then eventually SCSS/SASS)
-2. javascript / jQuery
-3. Chrome browser dev tools
-4. Maybe Greensock if we have time
-5. Flexbox for laying out divs, or bootstrap
+## STACK / WORKFLOW / TOOLS:
+1. STACK: css (then eventually SCSS/SASS), javascript / jQuery, HTML
+2. TOOLS: Text editor, codepen.io, Chrome browser dev tools
+5. WORKFLOW: Watch tutorials (see medium article), read MDN, turn to stack over flow [sometimes a FAIL](http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div), Find things on codepen to Fork
 
 [MY 'COMPREHENSIVE WEB ANIMATION' ARTICLE, FROM MEDIUM.COM] (https://medium.com/@evejweinberg/web-animation-everything-you-need-to-know-in-too-much-detail-91bf5d48f980#.t541ltp30)
-
-## PROCESS. What does it feel like?:
-1. watch tutorials (see medium article)
-2. stackOverflow
-  [sometimes not that helpful](http://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div)
-3. Find things on codepen to Fork
-
-
-
-## EX: stoke dash offset
-[TweenLite from GSAP] (http://codepen.io/dewwwald/pen/pNOVLp)
-
-
 
 
 
