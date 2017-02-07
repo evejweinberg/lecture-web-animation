@@ -29,6 +29,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 3. How to read scss/sass on codepen
   - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
+  - [Flag] (https://codepen.io/saransh/pen/eBIov)
 
 
 ## STACK / WORKFLOW / TOOLS:
