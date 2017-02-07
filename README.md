@@ -20,8 +20,10 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 2. CSS Animation vs Transitions
   - [Example of animation] (http://codepen.io/havardob/pen/GZXOox)
   - [Example of Transition](http://codepen.io/evejweinberg/pen/bgjWKp)
+  - [Example of Animation](http://codepen.io/evejweinberg/pen/zNLVPe)
   - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
-  - Transitions go from stateA to stateB; Animations can have multiple keyframes
+  -[All together](http://itp.evejweinberg.com/call/)
+
 3. How to read scss/sass on codepen
   - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
 4. Using Chrome Dev Tools
