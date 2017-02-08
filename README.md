@@ -28,10 +28,10 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
   - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
+ 
+3. What else can we animate?
+  - [ALL OF THIS!](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
-3. How to read scss/sass on codepen
-  - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
-  - [Flag] (https://codepen.io/saransh/pen/eBIov)
 
 
 ## STACK / WORKFLOW / TOOLS:
@@ -62,6 +62,11 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 ## So what is Sass and when should I use it?
 As soon as you're writing css comfortably and you find yourself thinking, 'damn, I wish I could use variables!'. . start learning SASS. Until then, use css.
+
+3. How to read scss/sass on codepen
+  - [This one](http://codepen.io/evejweinberg/pen/WRKjzG)
+  - [Flag] (https://codepen.io/saransh/pen/eBIov)
+
 
 [installing sass](http://sass-lang.com/install)
 [installing compass to compile sass to css](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
