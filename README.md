@@ -17,16 +17,14 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 ## what we can learn today
 2. CSS Animation vs Transitions
   - [Transition example](http://codepen.io/evejweinberg/pen/bgjWKp)
-  - [Animation Keyframe example] (http://codepen.io/havardob/pen/GZXOox)
-  - [Animation Keyframe example #2] (http://codepen.io/evejweinberg/pen/JEmogE)
-  - [Animation example 2 - shake on hover](http://codepen.io/evejweinberg/pen/zNLVPe)
-
-
-  - [Example on hover shake](http://codepen.io/evejweinberg/pen/JEvaWr)
+  - [Animation Keyframe example #1] (http://codepen.io/evejweinberg/pen/JEmogE)
+  - [Animation Keyframe example #2](http://codepen.io/evejweinberg/pen/zNLVPe)
+  - [Combo](http://codepen.io/evejweinberg/pen/JEvaWr)
   
-  // Switch to Chrome Dev tools and add clouds going across the screen
+2.  Switch to Chrome Dev tools and add clouds going across the screen
   
   -[All together](http://itp.evejweinberg.com/call/)
+  
 1. [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
   - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
