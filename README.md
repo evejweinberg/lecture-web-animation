@@ -18,6 +18,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 2. CSS Animation vs Transitions
   - [Transition example](http://codepen.io/evejweinberg/pen/bgjWKp)
   - [Animation Keyframe example] (http://codepen.io/havardob/pen/GZXOox)
+  - [Animation Keyframe example #2] (http://codepen.io/evejweinberg/pen/JEmogE)
   - [Animation example 2 - shake on hover](http://codepen.io/evejweinberg/pen/zNLVPe)
 
 
