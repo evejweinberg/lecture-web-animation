@@ -132,3 +132,6 @@ input:focus {
 background image fitting options:
 
 [w3schools interactive site](http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=contain)
+
+
+most performative properties: opacity and transform
