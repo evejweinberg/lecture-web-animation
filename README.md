@@ -12,7 +12,7 @@
 8. [gooey menu] (http://codepen.io/evejweinberg/pen/RKJNXO)
 9. [woah!](http://codepen.io/evejweinberg/pen/LxByzg)
 
-Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/)
+Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (http://www.awwwards.com/) and [CSS Awards] (https://www.cssawards.net/)
 
 ## what we can learn today
 2. CSS Animation vs Transitions
