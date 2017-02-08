@@ -8,6 +8,7 @@
 5. [another cool editorial thing] (http://bergluft.hervis.at/chapter/1)
 6. [another european site] (http://www.effektiv.fr/secteurs/ingenierie-management-de-production/)
 7. [slight slide in on scroll](http://dagadam.com/)
+7. [rad personal site] (http://alextade.me/)
 8. [gooey menu] (http://codepen.io/evejweinberg/pen/RKJNXO)
 9. [woah!](http://codepen.io/evejweinberg/pen/LxByzg)
 
