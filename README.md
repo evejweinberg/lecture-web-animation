@@ -47,7 +47,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 
 
-# test and amend on browser
+# code CSS live in Chrome
 
   1. open index in Chrome
   2. open console
