@@ -94,48 +94,48 @@ on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.
   add a new class, dont forget the space
     topicBox.classList += " open"
 
-  ```
-  but if you're using jQuery, just use the techniques in [this codepen](http://codepen.io/evejweinberg/pen/oByXXQ)
+
+ just use jQuery - [this codepen has examples](http://codepen.io/evejweinberg/pen/oByXXQ)
   
   
 # centering things
   
-    ```
-    left: 50%;
-    transform: translateX(-50%);
-    position: relative;
-    ```
+    .thing-to-center{
+      left: 50%;
+      transform: translateX(-50%);
+      position: relative;
+      }
+    
     
       
-    
-
 Sometimes you need more from the console:
 
-```console.dir vs console.log```
+    console.dir vs console.log
 
 
-  
+all children:
+
+    .section3-pre > * {
+      color: red;
+    }
 
 
-all children
-```
-.section3-pre > *
-```
+
+input fields, remove annoying blue glow:
+
+    input:focus {
+        border: 1px black solid;
+        outline: none;
+    }
 
 
-input fields, remove annoying blue glow
-```
-input:focus {
-    border: 1px black solid;
-    outline: none;
-}
-
-```
 
 background image fitting options:
 
 [w3schools interactive site](http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=contain)
 
 
-background gradient - [codepen here](http://codepen.io/evejweinberg/pen/zNbRLV)
+background gradient:
+[codepen here](http://codepen.io/evejweinberg/pen/zNbRLV)
+
 most performative properties: opacity and transform
