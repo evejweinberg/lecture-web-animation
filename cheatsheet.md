@@ -41,55 +41,58 @@ CSS animation properties:
   ```
 
 if using jQuery, put all code in here:
-  ```
-  $(document).ready(function(){ 
-  [all code here ] 
-  });
-  ```
+  
+    $(document).ready(function(){ 
+    [all code here ] 
+    });
+  
 
 on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
 
-    ```
+    
     cursor: pointer;
 
     .thingy:hover {
       cursor: pointer;
      }
      
-     ```
+     
 
 
 
-## updating CSS with javascript and jQuery:
+## updating CSS with javascript (just use jQuery if you can!):
 
 ### Adding styles one by one:
 
-  ```
-  document.getElementById('hi').style["width"] = "100%";
-  document.getElementById('hi').style.left = "5%";
  
-  //hyphenation vs camelCase
-  document.getElementById('hi').style['background-color'] = '#ccc'
-  document.getElementById('hi').style.BackgroundColor = '#ccc'
-  ```
-
-
-  ```
-  //cleaner - find element first
-  var numOne = document.querySelector('.num-1')
-
-  numOne.style.top = "5%";
-  numOne.style.position = 'absolute';
+    document.getElementById('hi').style["width"] = "100%";
+    document.getElementById('hi').style.left = "5%";
+ 
+  hyphenation vs camelCase
   
-  numOne.style['margin-top'] = "-35%";
-  numOne.style['font-size'] = "4vh";
+    document.getElementById('hi').style['background-color'] = '#ccc'
+    document.getElementById('hi').style.BackgroundColor = '#ccc'
+ 
 
-   ```
+
+  
+  cleaner - find element first
+  
+    var numOne = document.querySelector('.num-1')
+
+    numOne.style.top = "5%";
+    numOne.style.position = 'absolute';
+  
+    numOne.style['margin-top'] = "-35%";
+    numOne.style['font-size'] = "4vh";
+
+   
 ### replace element's ID or class entirely:
- ```
-  topicBox.id = "box-1-open"
-  //add a new class, dont forget the space
-  topicBox.classList += " open"
+
+    topicBox.id = "box-1-open"
+  
+  add a new class, dont forget the space
+    topicBox.classList += " open"
 
   ```
   but if you're using jQuery, just use the techniques in [this codepen](http://codepen.io/evejweinberg/pen/oByXXQ)
@@ -114,13 +117,13 @@ Sometimes you need more from the console:
   
 
 
-// all children
+all children
 ```
 .section3-pre > *
 ```
 
 
-//input fields, remove annoying blue glow
+input fields, remove annoying blue glow
 ```
 input:focus {
     border: 1px black solid;
@@ -134,4 +137,5 @@ background image fitting options:
 [w3schools interactive site](http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=contain)
 
 
+background gradient - [codepen here](http://codepen.io/evejweinberg/pen/zNbRLV)
 most performative properties: opacity and transform
