@@ -1,3 +1,4 @@
+# FLY BY! This Thurs 9:15pm Feb 16th
 # web animation with css, html, and javascript
 
 ## references
