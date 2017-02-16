@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+
+<style media="screen">
+  .hi {
+    border: 3px pink dashed;
+  }
+</style>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    var dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+
+    // Testing
+    var p = document.querySelector('p');
+
+    //type it here or just right on to the console
+    console.log(p);
+    console.dir(p);
+    console.table(dogs);
+    //you can now see that you can add p.onclick = function(){console.log('hi')}
+    //or p.classList = 'hi';
+  </script>
+</body>
+</html>
