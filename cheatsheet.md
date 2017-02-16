@@ -73,10 +73,11 @@ CSS animation properties:
     topicBox.id = "box-1-open"
   
   add a new class, dont forget the space
-    topicBox.classList += " open"
+    
+      topicBox.classList += " open"
 
 
- just use jQuery - [this codepen has examples](http://codepen.io/evejweinberg/pen/oByXXQ)
+ Reminder! Just use jQuery instead - [this codepen has examples](http://codepen.io/evejweinberg/pen/oByXXQ)
   
 
 
@@ -88,7 +89,7 @@ if using jQuery, put all code in here:
     });
   
 
-on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
+# on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
 
     
     cursor: pointer;
@@ -109,12 +110,13 @@ on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.
     
     
       
-Sometimes you need more from the console:
+# Sometimes you need more from the console (see html in other tab):
 
     console.dir vs console.log
+    
 
 
-all children:
+# all children:
 
     .section3-pre > * {
       color: red;
@@ -131,12 +133,12 @@ input fields, remove annoying blue glow:
 
 
 
-background image fitting options:
+# background image fitting options:
 
 [w3schools interactive site](http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=contain)
 
 
-background gradient:
+# background gradient:
 [codepen here](http://codepen.io/evejweinberg/pen/zNbRLV)
 
-most performative properties: opacity and transform
+# most performative properties: opacity and transform
