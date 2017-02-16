@@ -40,25 +40,6 @@ CSS animation properties:
 }
   ```
 
-if using jQuery, put all code in here:
-  
-    $(document).ready(function(){ 
-    [all code here ] 
-    });
-  
-
-on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
-
-    
-    cursor: pointer;
-
-    .thingy:hover {
-      cursor: pointer;
-     }
-     
-     
-
-
 
 ## updating CSS with javascript (just use jQuery if you can!):
 
@@ -97,7 +78,27 @@ on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.
 
  just use jQuery - [this codepen has examples](http://codepen.io/evejweinberg/pen/oByXXQ)
   
+
+
+
+if using jQuery, put all code in here:
   
+    $(document).ready(function(){ 
+    [all code here ] 
+    });
+  
+
+on hover, change curor to ![hand](https://i-msdn.sec.s-msft.com/dynimg/IC210310.png)
+
+    
+    cursor: pointer;
+
+    .thingy:hover {
+      cursor: pointer;
+     }
+     
+     
+     
 # centering things
   
     .thing-to-center{
