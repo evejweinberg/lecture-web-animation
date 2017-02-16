@@ -25,8 +25,8 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
   
 2.  Switch to Chrome Dev tools and add clouds going across the screen
 
-  - [All together - learning site](http://codepen.io/evejweinberg/pen/Ndevjj)  
-  - [All together - call site](http://itp.evejweinberg.com/call/)
+  - [we could make. .  - learning site](http://codepen.io/evejweinberg/pen/Ndevjj)  
+  - [we could make. .  - call site](http://itp.evejweinberg.com/call/)
   
   
 4. Adding CSS animation by using javascript: [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
