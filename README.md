@@ -17,6 +17,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 
 ## what we can learn today
 2. CSS Animation vs Transitions
+  - look at cheatsheet first
   - [Transition example](http://codepen.io/evejweinberg/pen/bgjWKp)
   - [Animation Keyframe example #1] (http://codepen.io/evejweinberg/pen/JEmogE)
   - [Animation Keyframe example #2](http://codepen.io/evejweinberg/pen/zNLVPe)
@@ -31,6 +32,7 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
 4. Adding CSS animation by using javascript: [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
   - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
+  - [jQuery to change DOM elements](http://codepen.io/evejweinberg/pen/oByXXQ)
   
  
 3. What else can we animate?
