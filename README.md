@@ -81,6 +81,12 @@ As soon as you're writing css comfortably and you find yourself thinking, 'damn,
 ```
 $ sass --watch style.scss:style2.css
 ```
+watch an entire folder:
+
+```
+$ sass --watch path/to/sass/folder:path/to/css/folder
+```
+
 
 
 
