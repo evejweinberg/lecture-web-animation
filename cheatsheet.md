@@ -142,3 +142,7 @@ input fields, remove annoying blue glow:
 [codepen here](http://codepen.io/evejweinberg/pen/zNbRLV)
 
 # most performative properties: opacity and transform
+
+    '''
+    text-transform: uppercase;
+    '''
