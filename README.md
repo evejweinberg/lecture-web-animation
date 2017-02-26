@@ -1,7 +1,7 @@
-# FLY BY! This Thurs 9:15pm Feb 16th
+
 # web animation with css, html, and javascript
 
-## references
+## references (get inspired)
 1. [Sing the movie website](http://www.singmovie.com/home)
 2. [Spook] (http://www.rememberspook.com/#)
 3. [Gemstones] (http://gemstones.elespacio.net/)
