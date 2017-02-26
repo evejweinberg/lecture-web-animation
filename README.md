@@ -25,14 +25,14 @@ Where to find more: [FWA Awards](https://thefwa.com/awards/) and [Awwwwwwards] (
   
 2.  Switch to Chrome Dev tools and add clouds going across the screen
 
-  - [we could make. .  - learning site](http://codepen.io/evejweinberg/pen/Ndevjj)  
-  - [we could make. .  - call site](http://itp.evejweinberg.com/call/)
+
   
-  
-4. Adding CSS animation by using javascript: [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
+3. Adding CSS animation by using javascript: [Powers of Ten sidebar] (http://itp.evejweinberg.com/powers_of_ten/)
   - [gist here, using TweenLite] (https://gist.github.com/evejweinberg/716ef219c7c42bc465fb306d991a4362)
   - [codepen here, using CSS] (http://codepen.io/evejweinberg/pen/bgjRdq?editors=1111)
-  - [jQuery to change DOM elements](http://codepen.io/evejweinberg/pen/oByXXQ)
+  
+  
+4.  [jQuery to change DOM elements](http://codepen.io/evejweinberg/pen/oByXXQ)
   
  
 3. What else can we animate?
